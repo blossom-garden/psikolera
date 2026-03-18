@@ -1,0 +1,13 @@
+name = "Smart Copper Golem"
+filename = "smart-copper-golem-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7nIDLb5i/versions/Dt83WzVz/smart-copper-golem-1.1.jar"
+hash-format = "sha512"
+hash = "b5d2c81adb52a3d6bdd17b8074f53add27157433b74e97ef786c85359a8023d180e055a7995fedfd837e20eeda452de2fb7d09fd9a3b179181260e5aaeab86a2"
+
+[update]
+[update.modrinth]
+mod-id = "7nIDLb5i"
+version = "Dt83WzVz"

@@ -1,0 +1,13 @@
+name = "Amethyst expansion"
+filename = "amethyst-expansion-dp-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zVG2op5g/versions/JoTe8XdK/amethyst-expansion-dp-1.21.11.jar"
+hash-format = "sha512"
+hash = "ce07be0b646dec4006d275c05d22dd8ea8b7ff94483fc8c0339d1b187365bb063a1485477a887d7cad37b6ca1a00352e949456ecf59e402e0d63dd452f6cfbaa"
+
+[update]
+[update.modrinth]
+mod-id = "zVG2op5g"
+version = "JoTe8XdK"

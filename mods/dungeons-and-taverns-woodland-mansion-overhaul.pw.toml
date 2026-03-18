@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Woodland Mansion Overhaul"
+filename = "dungeons-and-taverns-woodland-mansion-overhaul-v2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3GfxWFCy/versions/NPX3S6U6/dungeons-and-taverns-woodland-mansion-overhaul-v2.jar"
+hash-format = "sha512"
+hash = "60914b77a632a72d91797670bac43666a6bd365ed3829328114fda40444e2e57c6159b80d91caa592186b23bcdbc126a0809f3e4e30ddf66a82053d06eb0af91"
+
+[update]
+[update.modrinth]
+mod-id = "3GfxWFCy"
+version = "NPX3S6U6"

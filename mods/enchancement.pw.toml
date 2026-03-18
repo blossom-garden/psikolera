@@ -1,0 +1,13 @@
+name = "Enchancement"
+filename = "enchancement-1.21.11-r7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6hN1V6wJ/versions/bTvMsVAM/enchancement-1.21.11-r7.jar"
+hash-format = "sha512"
+hash = "e7413262599550a095da5568ca5e1878fe1110db8b57f09dfdf74a0c1fecbf173a3c471b2bb2993d0ebbfb21c3e9d2ece34b9e59d071caebf478b3aac2086fde"
+
+[update]
+[update.modrinth]
+mod-id = "6hN1V6wJ"
+version = "bTvMsVAM"

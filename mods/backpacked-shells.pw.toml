@@ -1,0 +1,13 @@
+name = "Backpacked: Shells"
+filename = "backpacked-shells-1.0.0+mc1.21.1+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TKAMHvcV/versions/7xpR8Ggh/backpacked-shells-1.0.0%2Bmc1.21.1%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "956e34ca5617511c7ca179d053eeae1b1fa7d9ac43b9eaa3bd87a648283026d829e2c4313525392e71286a4596d6b8cc6943beb0c4103cb568658955aac4f87d"
+
+[update]
+[update.modrinth]
+mod-id = "TKAMHvcV"
+version = "7xpR8Ggh"

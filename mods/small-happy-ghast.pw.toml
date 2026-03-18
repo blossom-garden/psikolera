@@ -1,0 +1,13 @@
+name = "Small Happy Ghast"
+filename = "small-happy-ghast-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/oxJtGiya/versions/qj58nNUz/small-happy-ghast-1.0.2.jar"
+hash-format = "sha512"
+hash = "b1bbe8086fb90c1513a8a5192ccffffee01409e8d656f0a596ab3a8f9295b27a92546eb159e8121873033ebabe81d72aa7ab588e2c3d5f53edf0ea409b6e42b9"
+
+[update]
+[update.modrinth]
+mod-id = "oxJtGiya"
+version = "qj58nNUz"

@@ -1,0 +1,13 @@
+name = "Elytra Trinket Updated"
+filename = "Minecraft-Elytra-Trinket-1.0.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pml7C7Gf/versions/NB5Y3Iq2/Minecraft-Elytra-Trinket-1.0.12.jar"
+hash-format = "sha512"
+hash = "d612070266b25a860bfaef6d07af4afae24f00ccfe4728192a840d81115e1663695bcf2738ba331ff912a49e6b3701f2169e6ccac741c175aa9a2cfe458aa5f9"
+
+[update]
+[update.modrinth]
+mod-id = "Pml7C7Gf"
+version = "NB5Y3Iq2"

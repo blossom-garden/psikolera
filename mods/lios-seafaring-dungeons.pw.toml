@@ -1,0 +1,13 @@
+name = "Lios Seafaring Dungeons"
+filename = "lios_seafaring_dungeons-1.18.2-1.21.6-v0.0.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/VFKE55Wa/versions/GMTJMGDa/lios_seafaring_dungeons-1.18.2-1.21.6-v0.0.5.jar"
+hash-format = "sha512"
+hash = "790a888650a0d86f42e9df5b87c8e6760d3dbcad48771c99d4c99a9cf5ef9014db911f240bf3e5d127b4737a0f4010baaffffa4e55367175077d4a515f972cb5"
+
+[update]
+[update.modrinth]
+mod-id = "VFKE55Wa"
+version = "GMTJMGDa"

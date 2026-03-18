@@ -1,0 +1,13 @@
+name = "Wisp's Colourful Wildflowers"
+filename = "Wisps Wonderful Wildflowers v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zVtAa1pJ/versions/EYf1Rgs4/Wisps%20Wonderful%20Wildflowers%20v1.0.0.zip"
+hash-format = "sha512"
+hash = "1082e0f1d113d775b3c5458d0ade332d7a4f112c41703be232f363a45a2cfa536fde2e987026e0a9d8593ee5b826c3cd7b92f9eb39921c4643fd8ee214223516"
+
+[update]
+[update.modrinth]
+mod-id = "zVtAa1pJ"
+version = "EYf1Rgs4"

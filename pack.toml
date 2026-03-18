@@ -1,0 +1,13 @@
+name = "Psikolera"
+author = "kodiitulip"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7a7dba29437ac6a8c8cac5a9c6a8c07d6727aee2f74b203f2f4de51e4f6f9329"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"

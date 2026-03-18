@@ -1,0 +1,13 @@
+name = "Carry On Extend"
+filename = "carryonextend-architectury-fabric-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JbqjOoQj/versions/uT6qQh5L/carryonextend-architectury-fabric-1.5.1.jar"
+hash-format = "sha512"
+hash = "117ff534d156283df326ed52b51e15b3fd10033f2e1b8d8e68886691fa9f763a711fa2df676a68d7b2668d1f99063de2d8b952bd443bc4506824a477fd54bfff"
+
+[update]
+[update.modrinth]
+mod-id = "JbqjOoQj"
+version = "uT6qQh5L"

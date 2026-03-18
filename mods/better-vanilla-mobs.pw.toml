@@ -1,0 +1,13 @@
+name = "Better Vanilla Mobs"
+filename = "better-vanilla-mobs-1.11.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L61L3hhV/versions/2Tq7zx7J/better-vanilla-mobs-1.11.3.jar"
+hash-format = "sha512"
+hash = "76721a4c86fae3a05992ef62271c7bb2142070767333138ab3b9b10f29ffdbcebe0101e914855519ccb2af3072fd16f1cab4a00b7e56cc37a821c2eb2d085f1d"
+
+[update]
+[update.modrinth]
+mod-id = "L61L3hhV"
+version = "2Tq7zx7J"

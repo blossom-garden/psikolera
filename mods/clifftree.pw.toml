@@ -1,0 +1,13 @@
+name = "CliffTree"
+filename = "CliffTree-3.1.5-1.21.11_MoM.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/59ypHk8x/versions/JZIwqnbs/CliffTree-3.1.5-1.21.11_MoM.jar"
+hash-format = "sha512"
+hash = "d53aca15e1187e4bd61956c504ab6ac71099e23b478e14f52f2157c0d3f320c1f3358f23416a45e9aaa07d0b403df72660634f4307347640a9562d4b868d6669"
+
+[update]
+[update.modrinth]
+mod-id = "59ypHk8x"
+version = "JZIwqnbs"

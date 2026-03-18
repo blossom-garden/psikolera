@@ -1,0 +1,13 @@
+name = "Zipline"
+filename = "zipline-1.2.2+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/crqH8IT5/versions/q4M3FYBC/zipline-1.2.2%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "df29de04c2c13cea8d7664fd0ac8d3966f164ce37a190aafb585a58874cfed78cda841a11b8736811736a8423bef1ce92390c2533d31b715c308cd37a9363ec7"
+
+[update]
+[update.modrinth]
+mod-id = "crqH8IT5"
+version = "q4M3FYBC"

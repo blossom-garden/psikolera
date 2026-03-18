@@ -1,0 +1,13 @@
+name = "Elytra Vaults"
+filename = "elytra-vaults-atlasplays-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qvUvo44k/versions/4wyVtGJP/elytra-vaults-atlasplays-1.2.0.jar"
+hash-format = "sha512"
+hash = "31fd6c05de7ebcd1860f6b3eb4aab113c9c0647894fc059949a9606cbd4566a4f6be4630698e5b05dc31562f6fb3fde1b15ef73aecea1ecc49bbb8a2f547af64"
+
+[update]
+[update.modrinth]
+mod-id = "qvUvo44k"
+version = "4wyVtGJP"
