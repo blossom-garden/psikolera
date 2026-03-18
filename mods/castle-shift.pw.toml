@@ -1,0 +1,13 @@
+name = "Castle Shift"
+filename = "castleshift-0.2.0+1.21.11-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YD7K9Qmq/versions/9CDmbTLm/castleshift-0.2.0%2B1.21.11-fabric.jar"
+hash-format = "sha512"
+hash = "98e6892c922aab6ef026f9ab9a4e1ebb0cdf4137dd2c30f9ede3dba7b3ec5ef97f3bb5bee8a2d9fc1824cb8c6c17ba0760bbf342498f8c4ef87849649d39ec2e"
+
+[update]
+[update.modrinth]
+mod-id = "YD7K9Qmq"
+version = "9CDmbTLm"

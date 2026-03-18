@@ -1,0 +1,13 @@
+name = "Down But Not Out"
+filename = "down-but-not-out-0.5.0+1.21.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EiVVaNVn/versions/7cOyjFbd/down-but-not-out-0.5.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "a2a228962d646287784621ef0b8bf53ae6f83bbedfd79a0e9496d513680ffabab4d075b924097b58e4b2f8e01667cc00bea6529630418045e092a12fabc06d32"
+
+[update]
+[update.modrinth]
+mod-id = "EiVVaNVn"
+version = "7cOyjFbd"

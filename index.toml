@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/butterbee.pw.toml"
-hash = "5d64ed55c26e4e0224a41cb682d24616af22f12cd10c1938c17e6e381d2db83c"
+hash = "d8f808f424298f05e5add045c34a947039873de588effa92cf8d197661e870d6"
 metafile = true
 
 [[files]]
@@ -166,8 +166,18 @@ hash = "2515110b3990de9703158168c22b4ecafc739c399e421daedbfba24442224ba5"
 metafile = true
 
 [[files]]
+file = "mods/castle-shift.pw.toml"
+hash = "9f0692fe9836932c7a0d684264863dc2561b93c2dcb7ea1faa8174060935f406"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "9fb6298b75abc16f41cc6057de892c27acacdafeafae7f8ac46c1e8f222ade40"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "2fa6655542b90a86aa6a27219aa662bddd1b38a13bbb1f5a35eb49b1920478d6"
 metafile = true
 
 [[files]]
@@ -187,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "bfc04ff5561005835913255487adf2b69877d2b19c79d600980c29ee8419b89a"
+hash = "6a5694f52f2240b10d2892692aed433fac32a0d1c0299adbdd50776b23889a3e"
 metafile = true
 
 [[files]]
@@ -248,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
+metafile = true
+
+[[files]]
+file = "mods/down-but-not-out.pw.toml"
+hash = "19bdfa5341b4c7129d101a7d8ee1a0eb77fe37d24f30f7786fa899c343c0c949"
 metafile = true
 
 [[files]]
@@ -316,6 +331,11 @@ hash = "45b4ea72737208acb14e6b2fddd2716bcb3ba342cc0ba95ca1f435f8037498b6"
 metafile = true
 
 [[files]]
+file = "mods/easy-wardrobe.pw.toml"
+hash = "fe1d6593e82a5caedd73d846c07175c34b98b63b6bb2a10a2e25dffc486b5d74"
+metafile = true
+
+[[files]]
 file = "mods/elytra-lunge.pw.toml"
 hash = "d30992a740b847eff04beb2f0c21fc03092d3f67e8d724fc4c8b4b505df7c584"
 metafile = true
@@ -328,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-vaults-atlasplays.pw.toml"
 hash = "b23a5f8d831e42824dfffae1b03e39295c8c0689036517a6c19a1a25e8e3c35a"
+metafile = true
+
+[[files]]
+file = "mods/embellish-chat.pw.toml"
+hash = "72c9872641e84b4aa449cc1c78ad5f4b57f82999cccd1967fe703d108191e7a1"
 metafile = true
 
 [[files]]
@@ -466,6 +491,16 @@ hash = "71255e25b05b6529d6a2873e4db079b7b6541f58a78d872bc19478afcb0ffd1c"
 metafile = true
 
 [[files]]
+file = "mods/lazyai.pw.toml"
+hash = "56b4b7d63988aae0c7441067d23477310384d66547f30ff77952c2dfb1036791"
+metafile = true
+
+[[files]]
+file = "mods/leashall.pw.toml"
+hash = "79058150060c370e970719dfc6b37cc7ce21f99145a6be4a66f79375f1b7ebcd"
+metafile = true
+
+[[files]]
 file = "mods/libjf.pw.toml"
 hash = "e8037cd61fedd84c643a94777c6ed63b50d78372fa99b232c4deecf9071873bd"
 metafile = true
@@ -573,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/medieval-buildings.pw.toml"
 hash = "8b8a839bc447eb7d0a01ecb480af92693fe9396929ec29f1beda5e0cd5011c4d"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-tweaks-shockwave.pw.toml"
+hash = "3fc6ae4c114409475886c1de43875cc0af583f35fe4b1d2c5ceeee4e28e2be12"
 metafile = true
 
 [[files]]
@@ -776,13 +816,8 @@ hash = "2b353bc499f08c16f8745bc07b8da39e68ba47d77416b4fe3a3abf6745e35aec"
 metafile = true
 
 [[files]]
-file = "mods/stellarity-better-combat-addon.pw.toml"
-hash = "b1bba3f641fa9c3b4c863da53d2b553dabb00961157cef1951c86128313b4d5e"
-metafile = true
-
-[[files]]
-file = "mods/stellarity.pw.toml"
-hash = "7eea93105722f4e10e4d0d2f94976d8926c86e9fb97ebae9e8bc3a9e9546ae75"
+file = "mods/stellarity-enlightened.pw.toml"
+hash = "6ceaae9c18fb422e8b730c99a473db0bcba3020d418ba15aae5dea93b9f93a06"
 metafile = true
 
 [[files]]

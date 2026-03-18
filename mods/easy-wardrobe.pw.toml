@@ -1,0 +1,13 @@
+name = "Easy Wardrobe"
+filename = "easy-wardrobe-0.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MGfo8zX6/versions/79E2cXrB/easy-wardrobe-0.0.2.jar"
+hash-format = "sha512"
+hash = "40cb6ad9d9b389c327c3b1f32ba53b8669ae27665c45526b6d8572f80d820d690691ee1714dea765f72279e32021d495651301844c6624038840d5f56e1411ca"
+
+[update]
+[update.modrinth]
+mod-id = "MGfo8zX6"
+version = "79E2cXrB"
