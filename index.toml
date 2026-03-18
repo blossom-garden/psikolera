@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/butterbee.pw.toml"
-hash = "d8f808f424298f05e5add045c34a947039873de588effa92cf8d197661e870d6"
+hash = "5d64ed55c26e4e0224a41cb682d24616af22f12cd10c1938c17e6e381d2db83c"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "6a5694f52f2240b10d2892692aed433fac32a0d1c0299adbdd50776b23889a3e"
+hash = "bfc04ff5561005835913255487adf2b69877d2b19c79d600980c29ee8419b89a"
 metafile = true
 
 [[files]]
