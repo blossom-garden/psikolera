@@ -106,6 +106,11 @@ hash = "1c953345d9204eb1eca7f2018b9dfe759164eed72b55ba769b4f8ef935126c71"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "b40f32455fd3c28328d8d7df7764ab2208c101da712f739bcf30aee9ebecffbe"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "9fcf9799b24d4c3463e1a916473eb2baaa67e2d46ba866378bb09769879e46d4"
 metafile = true
@@ -626,6 +631,11 @@ hash = "01cce2adecdc5e33fba69ff99c5a87f847733a0238f8e94ad2c9841cb26ec2ba"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "94f7151f9d1a58d9347e46ad36f30ceb9a73815eeb0011d4bebf20ff43373739"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
 metafile = true
@@ -653,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/pneumono_gravestones.pw.toml"
 hash = "0a2603701e630b6ed05854fb97b5eb2d866741cf57bf0c6ba27acffad83aa2ac"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "13369d7a10a47895f33629f000945d6bdf43f7b19a9ff1ca2ecfbc209c1ac431"
 metafile = true
 
 [[files]]

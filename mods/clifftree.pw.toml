@@ -1,6 +1,6 @@
 name = "CliffTree"
 filename = "CliffTree-3.1.5-1.21.11_MoM.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/59ypHk8x/versions/JZIwqnbs/CliffTree-3.1.5-1.21.11_MoM.jar"
