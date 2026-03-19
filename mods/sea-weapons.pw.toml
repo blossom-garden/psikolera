@@ -1,0 +1,13 @@
+name = "Sea Weapons"
+filename = "sea_weapons-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UEZkD0s2/versions/zyVeOhfF/sea_weapons-1.2.jar"
+hash-format = "sha512"
+hash = "7a2553d97499897625a4371132cf6ae2d7e9c0adc0132ec59f875a1a83c47ae2fc804e69e10bb703f50f0ad856212843d9c175ba5090b438c9af79851ba30bff"
+
+[update]
+[update.modrinth]
+mod-id = "UEZkD0s2"
+version = "zyVeOhfF"
