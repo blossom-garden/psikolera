@@ -1,6 +1,6 @@
 name = "Fusion (Connected Textures)"
 filename = "fusion-1.2.12a-fabric-mc1.21.11.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/p19vrgc2/versions/mejTd03X/fusion-1.2.12a-fabric-mc1.21.11.jar"
