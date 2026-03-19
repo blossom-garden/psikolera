@@ -46,6 +46,11 @@ hash = "86dbb557dc9483923cc56cb7a049116eb9ec80a307c4ba452d51673619c37ab6"
 metafile = true
 
 [[files]]
+file = "mods/aerial-hell.pw.toml"
+hash = "43a6945534ac5e4c06248ce4fd0731ff3bc59664da4251c2f57b228cd22bb562"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "03383af39971df22d4581de1a8b6c0e80c6ecfd53b16716b9fc8e52580070753"
 metafile = true
@@ -72,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-poser.pw.toml"
-hash = "45bceb2ce550f66c0b1cf9ba71775f0cc47a014233154931e7c06ec05f7e6b5d"
+hash = "945c1e564cd45e93b12cdfa4580e2e6da85bce7441dbc961e93af74b2e2775e2"
 metafile = true
 
 [[files]]
@@ -93,11 +98,6 @@ metafile = true
 [[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "416710d4d7d4b6530919c582c0cbaebb94cc8bb443ce52fc377e197780184d37"
-metafile = true
-
-[[files]]
-file = "mods/better-block-entities.pw.toml"
-hash = "8958a9efde473f0e9ab49069682c66f5c6cbf8023f983a14658c1a325c7273b7"
 metafile = true
 
 [[files]]
@@ -128,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/bhgc.pw.toml"
 hash = "7704a804af984cac980a76eff5f22e3a1bac967826d5dce177e01d9ea4ca16ca"
-metafile = true
-
-[[files]]
-file = "mods/blood-moon.pw.toml"
-hash = "8c7c4994135e8ba1fec6d358afb493605ba75471ef062c1ff43e248fc698785e"
 metafile = true
 
 [[files]]
@@ -248,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "e0b829e2138938618eb2c65bc16f41aef69beb2fb59611a3559a1d0ad3506432"
-metafile = true
-
-[[files]]
-file = "mods/crop-critters.pw.toml"
-hash = "a311ae0d45e0ffb615323003676ff17e4c8c790247ada95186431868e873771d"
 metafile = true
 
 [[files]]
@@ -437,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "5d3bfbab6b1af1525229e52889de5fd84fe44def5c25140d4bbe7d3daaccf2bf"
+hash = "865e7cf3a589f708b76abfdf7d6d9955d367b49ebab75bc6eed24aba92edeb00"
 metafile = true
 
 [[files]]
@@ -493,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/lazyai.pw.toml"
 hash = "56b4b7d63988aae0c7441067d23477310384d66547f30ff77952c2dfb1036791"
-metafile = true
-
-[[files]]
-file = "mods/leashall.pw.toml"
-hash = "79058150060c370e970719dfc6b37cc7ce21f99145a6be4a66f79375f1b7ebcd"
 metafile = true
 
 [[files]]
@@ -766,6 +751,11 @@ hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
 
 [[files]]
+file = "mods/sea-weapons.pw.toml"
+hash = "14306e8c5e74b2a7079d02fb7958c83039fb78a493280641c7ce6a90284909c4"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "a17a9c598d984e4ff28d0945dd0e8bf94b3125b1d669226b4ad736543dacef3f"
 metafile = true
@@ -778,6 +768,11 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "2ef511a1ad4339ba2f9fc6058e60680b21dcc528261f8470ccc8ab651f141e8c"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "a4c742db2f87bd02aa5dfd47faab025d985a9e21e69c72dd923a643a7a908513"
 metafile = true
 
 [[files]]
@@ -811,11 +806,6 @@ hash = "6336d9920227dc21d6df421414bfef75a8e029ff5d8e6d36dbd3609ce1beee79"
 metafile = true
 
 [[files]]
-file = "mods/stack-refill.pw.toml"
-hash = "2b353bc499f08c16f8745bc07b8da39e68ba47d77416b4fe3a3abf6745e35aec"
-metafile = true
-
-[[files]]
 file = "mods/stellarity-enlightened.pw.toml"
 hash = "6ceaae9c18fb422e8b730c99a473db0bcba3020d418ba15aae5dea93b9f93a06"
 metafile = true
@@ -846,6 +836,11 @@ hash = "24e8533a02aff25ab64cb4f261182d06097e32f22d7ee26fd29efabee2df532f"
 metafile = true
 
 [[files]]
+file = "mods/too-many-bows.pw.toml"
+hash = "e5d2111acffe408e0450635c728b068b2e5baf879fefc77c1a33278cb23645cc"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "3c143d1d3cea955f82df163ff8f431ee5c9ec086714f708ae1ef0141294708b1"
 metafile = true
@@ -871,6 +866,11 @@ hash = "33eba3f41489123541c678490231454c0059ad2dfd5513ea025840c69fc9a1ef"
 metafile = true
 
 [[files]]
+file = "mods/veinminer.pw.toml"
+hash = "fc7bfaa3cc133f968b1a4ee6f0635c2980fb277870aec45e9d68ff313b0d1d9d"
+metafile = true
+
+[[files]]
 file = "mods/voxy.pw.toml"
 hash = "9e7624c289064cf176b195771176b758a146a60e8751c8b3a39158e06ef7a29b"
 metafile = true
@@ -878,6 +878,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "88b2211504efdc62eb41ad69abde250bc85da0c66fb6a7ddde874df42afe8fc6"
+metafile = true
+
+[[files]]
+file = "mods/weaponsexpanded.pw.toml"
+hash = "4087f717241f6f713c9255a27b1207cfbcc2d466786ef0d1de0259680d119657"
 metafile = true
 
 [[files]]
