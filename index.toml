@@ -96,6 +96,11 @@ hash = "a5f2425faf40b4a588130aa16045efc41afc81fa9cba91f368f2f66877a2bbfa"
 metafile = true
 
 [[files]]
+file = "mods/basicstorage.pw.toml"
+hash = "4d80003a66b27ec7dc7f72e71ef97bc186c8bd2f2b325a8f51c69ae50e4beb41"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "416710d4d7d4b6530919c582c0cbaebb94cc8bb443ce52fc377e197780184d37"
 metafile = true
@@ -693,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "13369d7a10a47895f33629f000945d6bdf43f7b19a9ff1ca2ecfbc209c1ac431"
+metafile = true
+
+[[files]]
+file = "mods/pride-moths.pw.toml"
+hash = "bbb6aca00a715c57d7f7d2325bda474946338ad8c71abe79b3e097f15ec1e801"
 metafile = true
 
 [[files]]

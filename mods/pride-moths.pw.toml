@@ -1,0 +1,13 @@
+name = "Happy Pride Moth!"
+filename = "pride-moths-1.9.5+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z4CDikCJ/versions/h6tay9G6/pride-moths-1.9.5%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "016ed0e5a08b0e6f13282f2cf88875a90ca11e83a846b226aaacf6b91931a5367065538dd9b7510e699767582fac4815aa090f9d420be69edcb9c985e0a86d8d"
+
+[update]
+[update.modrinth]
+mod-id = "z4CDikCJ"
+version = "h6tay9G6"
