@@ -41,6 +41,10 @@ file = "icon.png"
 hash = "0dcb8520ba74f0c4bc1ab9c7fdbc50720f8b5ff854e3a5ec80853797b2ece6b2"
 
 [[files]]
+file = "mods/TortugaFoda.jar"
+hash = "1d464592e72fbca2f42ec12ac02a7f54ea4dda426ed5fe42cc24a1531c075f83"
+
+[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "86dbb557dc9483923cc56cb7a049116eb9ec80a307c4ba452d51673619c37ab6"
 metafile = true
@@ -346,6 +350,11 @@ hash = "b23a5f8d831e42824dfffae1b03e39295c8c0689036517a6c19a1a25e8e3c35a"
 metafile = true
 
 [[files]]
+file = "mods/elytralock.pw.toml"
+hash = "c6b908369d5ab16d620c3919a83cd197b34cd82b73c8368e5916ad9e9d4f3977"
+metafile = true
+
+[[files]]
 file = "mods/embellish-chat.pw.toml"
 hash = "72c9872641e84b4aa449cc1c78ad5f4b57f82999cccd1967fe703d108191e7a1"
 metafile = true
@@ -566,6 +575,11 @@ hash = "5445fb832957ce57cb17f13fd576e1521dd39d6beccb00c3beda0ee626b210f9"
 metafile = true
 
 [[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "ca138c6a52393d5a97746ceab75c61a5087d4f5e49a4620fe2bdb0987df8c13e"
+metafile = true
+
+[[files]]
 file = "mods/macaws-stairs.pw.toml"
 hash = "a71b7c50170be035f2b9f3db5ba788ef1c1ba99fe257814bb6b34660a9ab62d7"
 metafile = true
@@ -658,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "01cce2adecdc5e33fba69ff99c5a87f847733a0238f8e94ad2c9841cb26ec2ba"
+metafile = true
+
+[[files]]
+file = "mods/pandaleadbreak.pw.toml"
+hash = "cde08685dffeab6c7e840b1bb73973bfa31c67b61ba4fda9dd57db135c2878ae"
 metafile = true
 
 [[files]]
@@ -773,6 +792,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "16a351dac4db6e5b8035f56090710a227d33482797ef5bcc09a367099304be74"
+metafile = true
+
+[[files]]
+file = "mods/shield-upgrades.pw.toml"
+hash = "4afb766d063c2371be179d6c6039edf114445c439f5d7726338780a2e5521e6b"
 metafile = true
 
 [[files]]

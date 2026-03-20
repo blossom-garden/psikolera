@@ -3,10 +3,11 @@
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable no-emphasis-as-heading -->
 
-**v2.1.0**
+**v2.2.0**
 
 **Adicionado**:
 
-- [Basic Storage](https://modrinth.com/project/NMOanmPo) Big Baú
-- [Happy Pride Moth!](https://modrinth.com/project/z4CDikCJ) Pride Moths!!!!!!
+- [Elytra Lock](https://modrinth.com/project/TGKINn8G) desligar a ekytra com uma tecla
+- [Shield Upgrades](https://modrinth.com/project/qhzGVNi1) shilds fodasticos
+- [Macaw's Roofs](https://modrinth.com/project/B8jaH3P1) os cara tao no teto
 - Customização pras torgas do ComputerCraft
