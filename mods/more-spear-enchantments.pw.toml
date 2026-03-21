@@ -1,0 +1,13 @@
+name = "More Spear Enchantments"
+filename = "more_spear_enchantments-fabric-1.1.1+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a0Pxxx7t/versions/ZCz1oitY/more_spear_enchantments-fabric-1.1.1%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "debe2d59d222818527eac5b62678f513c044f4225e80854fce5c8128314aadd9d627c7af9a5a622a1709e9e3ebaf053b9bc0b699899f80943375a87a824ee146"
+
+[update]
+[update.modrinth]
+mod-id = "a0Pxxx7t"
+version = "ZCz1oitY"

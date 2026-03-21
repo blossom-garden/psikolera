@@ -1,0 +1,13 @@
+name = "RPG Enchantments"
+filename = "rpg-enchantments-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rAL0zAZC/versions/kBpRoIKe/rpg-enchantments-1.1.2.jar"
+hash-format = "sha512"
+hash = "f2bc8455cb86aa8869f455cc1a688109549f1e895a57bf2b4f65f03d2e27365594a10be2d241452bf549049f3c005a52936980b73a7d6eb3a1d7cd102d61e07d"
+
+[update]
+[update.modrinth]
+mod-id = "rAL0zAZC"
+version = "kBpRoIKe"

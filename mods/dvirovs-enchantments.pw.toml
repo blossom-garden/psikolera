@@ -1,0 +1,13 @@
+name = "dvirov's Enchantments"
+filename = "dvirovs-enchantments-v1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PVKoqs9W/versions/cPFuZzkv/dvirovs-enchantments-v1.jar"
+hash-format = "sha512"
+hash = "4be3edbbcce30581db0e73a387d9971920cbf3a973b97f8685d1fefd1a9d1ed624ecf8eec4372a829abdcf03f890f4107e4424a244f4c0becb23e497876dc941"
+
+[update]
+[update.modrinth]
+mod-id = "PVKoqs9W"
+version = "cPFuZzkv"

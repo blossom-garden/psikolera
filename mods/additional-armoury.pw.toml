@@ -1,0 +1,13 @@
+name = "Additional Armoury"
+filename = "additional-armoury-2.0.3+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DxlUSaq8/versions/6XtpimHd/additional-armoury-2.0.3%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "c01eb190828195b00481035a80837c3c07337a62ebbad55639814fd3f35ad6bb84d18b14512474449a60660a889a09786d9fd1422eba883f18c9d6697e76f0d7"
+
+[update]
+[update.modrinth]
+mod-id = "DxlUSaq8"
+version = "6XtpimHd"

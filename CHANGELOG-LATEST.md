@@ -10,4 +10,16 @@
 - [Elytra Lock](https://modrinth.com/project/TGKINn8G) desligar a ekytra com uma tecla
 - [Shield Upgrades](https://modrinth.com/project/qhzGVNi1) shilds fodasticos
 - [Macaw's Roofs](https://modrinth.com/project/B8jaH3P1) os cara tao no teto
-- Customização pras torgas do ComputerCraft
+- Customização pras tortugas do ComputerCraft
+- [RPG Enchantments](https://modrinth.com/project/rAL0zAZC)
+- [More Spear Enchantments](https://modrinth.com/project/a0Pxxx7t)
+- [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ)
+- [Hexed: Enchantments Expanded](https://modrinth.com/project/UD0wgU82)
+- [dvirov's Enchantments](https://modrinth.com/project/PVKoqs9W)
+- [Combat+ Core](https://modrinth.com/project/NbKFMiE7)
+- [Alternative Enchantments](https://modrinth.com/project/W0USuJJc)
+- [Additional Armoury](https://modrinth.com/project/DxlUSaq8)
+
+**Removido**
+
+- [Roughly Enough Items (REI)](https://modrinth.com/project/nfn13YXA)

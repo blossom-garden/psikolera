@@ -50,6 +50,11 @@ hash = "86dbb557dc9483923cc56cb7a049116eb9ec80a307c4ba452d51673619c37ab6"
 metafile = true
 
 [[files]]
+file = "mods/additional-armoury.pw.toml"
+hash = "123600c786291019d54b3c3d87b25bc494dc46b14a9e2de63a6d1ea941a7768a"
+metafile = true
+
+[[files]]
 file = "mods/aerial-hell.pw.toml"
 hash = "43a6945534ac5e4c06248ce4fd0731ff3bc59664da4251c2f57b228cd22bb562"
 metafile = true
@@ -57,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/almanac.pw.toml"
 hash = "03383af39971df22d4581de1a8b6c0e80c6ecfd53b16716b9fc8e52580070753"
+metafile = true
+
+[[files]]
+file = "mods/alternative-enchantments.pw.toml"
+hash = "fc8ee2974f9b24c814fb6cc96f2a7cd6c1858cebbf2380f97d26f03a0ca4bc0c"
 metafile = true
 
 [[files]]
@@ -225,6 +235,11 @@ hash = "a35b31d58f005ac86c4bd186b7d3f66fe40bb191a7432728c2b9ea2c4d990f17"
 metafile = true
 
 [[files]]
+file = "mods/combatplus-core.pw.toml"
+hash = "9fbe91a8474f36049efd2dfcc2da433fff6d697dba0d5c137da0d84d5be82678"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "07db8fce5d52ac799aeb81568c17db506608563511cd3432e8778be7069d67af"
 metafile = true
@@ -317,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-dimensions-nether.pw.toml"
 hash = "0513cf592d3fc1a037a11038c91353d6be15e483809d89e405da71eb57c93635"
+metafile = true
+
+[[files]]
+file = "mods/dvirovs-enchantments.pw.toml"
+hash = "24bb74d9ff8f8a2423a4f9e60055a490110cafdfe09b216bbb4432acea75b719"
 metafile = true
 
 [[files]]
@@ -455,6 +475,11 @@ hash = "9aa3cdec1892fe39d5c9bc5050bd22d95317219ee6ce215af3f9dc95275dfbb9"
 metafile = true
 
 [[files]]
+file = "mods/hexed-enchantments-expanded.pw.toml"
+hash = "18ac56ca739d35479f8b2c48cc920c38e37842f2cfb0e7507afc431865ce82c4"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-mineshaft.pw.toml"
 hash = "c6af30b4a2da4587c2d0ef4b866c05ea5dcbddad609653a5fd4ec494832a63b8"
 metafile = true
@@ -487,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "3a4bdf4855b2c2bcab556507cd5f61fa8915cc0aa8519821efd09143b24235fb"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "f1e08f4ad778199468cad1c1baaec2144197f020bb51db6f6c619ed0286fa7f5"
 metafile = true
 
 [[files]]
@@ -630,6 +660,11 @@ hash = "3f0449bb15482e4755703638bb343407accece8208ac6df225623db2852523a1"
 metafile = true
 
 [[files]]
+file = "mods/more-spear-enchantments.pw.toml"
+hash = "be56198fd61813c480fd9dacf771401085695993a85947ee54cd4c8e15b231a1"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "e4b9192ce7f54715dde7eb682ebab23aaaac10658b1bd08ba553a5f99b0124d1"
 metafile = true
@@ -750,11 +785,6 @@ hash = "56db21d0a141971f477b02fee672db2e02f3176c92fd314198a2938092b6fdc6"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "a62d7893eae9d5713dbe9c844b2bb9eba53157743c47b6e8abcbdd9075264cc9"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "88226110e3a31bc9557178df0a1354e7bf5329f62d8b535c9ec9b7bdec85e831"
 metafile = true
@@ -762,6 +792,11 @@ metafile = true
 [[files]]
 file = "mods/respackopts.pw.toml"
 hash = "b02aadeff5ae0d7aaf6c58fba3079cc5423892a5bd8bd58de2247e4c22a119ba"
+metafile = true
+
+[[files]]
+file = "mods/rpg-enchantments.pw.toml"
+hash = "31d4a762fd81ae273db24ffce9dccfe69944a798472dbf68ea6b2fef53a520ba"
 metafile = true
 
 [[files]]

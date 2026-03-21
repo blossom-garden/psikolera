@@ -1,0 +1,13 @@
+name = "Combat+ Core"
+filename = "combatplus-core-4.0.1+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NbKFMiE7/versions/QOZ3s0Zo/combatplus-core-4.0.1%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "832355edb9724f40ec83df04e814ffdf48c759ce95813f001fb10c042ac7a0170d60e91313285cf40155c0beea795e4f70b93a3011e2400b29971bfc98621314"
+
+[update]
+[update.modrinth]
+mod-id = "NbKFMiE7"
+version = "QOZ3s0Zo"
