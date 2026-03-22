@@ -4,6 +4,15 @@
 
 # Psikolera
 
+**v2.2.1**
+
+_Patch Fix_
+
+**Removido**
+
+- [Hold My Items](https://modrinth.com/project/AP8rDDLS)
+- Resourcepacks bem fodase
+
 **v2.2.0**
 
 **Adicionado**:
