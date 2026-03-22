@@ -495,11 +495,6 @@ hash = "18ac56ca739d35479f8b2c48cc920c38e37842f2cfb0e7507afc431865ce82c4"
 metafile = true
 
 [[files]]
-file = "mods/hold-my-items.pw.toml"
-hash = "929cf6aa709b752593ea1a434038338bf22594c8027844ad30d17e7366e18245"
-metafile = true
-
-[[files]]
 file = "mods/hopo-better-mineshaft.pw.toml"
 hash = "c6af30b4a2da4587c2d0ef4b866c05ea5dcbddad609653a5fd4ec494832a63b8"
 metafile = true
@@ -1043,18 +1038,8 @@ file = "resourcepacks/Ghasts Galore! Updated.zip"
 hash = "337bd002913e46fd172088c5f359d139be6350fb9e19062addeb41a1e89bf309"
 
 [[files]]
-file = "resourcepacks/emissive-trim-armors.pw.toml"
-hash = "3ea8cbc864c2577ffda19029c6bd949ba0027ad8bb6acf2254b9e316489b5c72"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
 hash = "ac7bbfdc56a8e16d5c900db5b94f41497526cd7546f4d751dd17aa604c064578"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fa-playerhmi.pw.toml"
-hash = "3ec0dd77a11aac8d4e84251eff5df1810e86c9fc218fd9862338299fa199da60"
 metafile = true
 
 [[files]]
@@ -1113,30 +1098,6 @@ hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/ghastly-enchantments.zip"
-hash = "9fb7bf17a7c5c534a83e72334571931640454cf4263efe83fac2d254d4542b52"
-
-[[files]]
-file = "resourcepacks/hmi-gouss-hand-poses.pw.toml"
-hash = "db054435160f5fd04c8932beecdf733b20d3eb12ec1afed5092ed55428828ee2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/icon-xaeros-x-freshanimations.pw.toml"
-hash = "2cf62d9d75982660958518255460acab738f1dd9ea05ad4a630ba59de5e23ada"
-metafile = true
-
-[[files]]
-file = "resourcepacks/just-3d-armors.pw.toml"
-hash = "26cdf95c10414e8faca7e0e1a92cd15aebc3a9f5e5695e47a8e4ca15bab9fab5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/rv-torches.pw.toml"
-hash = "36be58019af2e52cfe286169c981699ad0176ac65dba78ce4278a2dc0dcc716e"
-metafile = true
-
-[[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
 hash = "bc4dcbd6b77adb2180049d63ed4a8981553f06dbf3e32080022ffd87dd1fb09b"
 metafile = true
@@ -1144,21 +1105,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/simple-lower-grass-sides.pw.toml"
 hash = "95df280d41e71aa4a6db43b9f56196a716f238660b0135c05155980e36778304"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tools-and-utils.pw.toml"
-hash = "53ff672d0d0f284c4c8169fa020984ac75bdcc4452a303ea3f3d4031fcd34bdf"
-metafile = true
-
-[[files]]
-file = "resourcepacks/visual-armor-trim-descriptions.pw.toml"
-hash = "f509d6f6e5da2aeadc7dd427e07a2d489395f3d2bed2f75a26d9a5b192420e7e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/visual-armor-trims.pw.toml"
-hash = "02633679e746f2b298fc877690c0ae86d5c76b2c5a1f8b8a78e1560f788b8987"
 metafile = true
 
 [[files]]
