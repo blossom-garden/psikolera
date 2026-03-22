@@ -1,0 +1,13 @@
+name = "DecoNature"
+filename = "decocraft-nature-1.0.7-1.21.11-fabrc.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KGIl2E4k/versions/IxmzmSdl/decocraft-nature-1.0.7-1.21.11-fabrc.jar"
+hash-format = "sha512"
+hash = "cf5a4c3021806d61760a063d93f669572847664a1d42b441dc50b984f008c604f1ffd84679919638b371ae6d2b6cf77a30956ab29990cdaea3b9070bcd49994b"
+
+[update]
+[update.modrinth]
+mod-id = "KGIl2E4k"
+version = "IxmzmSdl"

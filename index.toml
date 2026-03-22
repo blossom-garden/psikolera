@@ -255,6 +255,11 @@ hash = "4770a4eeea89b0dbd208491d31767f73cc0cea82496fedeeb045736c415c2947"
 metafile = true
 
 [[files]]
+file = "mods/corrupted-aspects.pw.toml"
+hash = "a7cbd6237960cb9fc1e4609b013508a4bf740c3ed33ed35e63a764a5d77dceb6"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "4aec48b176bf12adbbae1c55152db40a46ba59a8f746b44f60f3d681cbb19258"
 metafile = true
@@ -272,6 +277,16 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
+metafile = true
+
+[[files]]
+file = "mods/decocraft.pw.toml"
+hash = "680cc7fb244370946bcf09f56f576c1cdcc14556f7feac477eb912a80cf4aaa5"
+metafile = true
+
+[[files]]
+file = "mods/deconature.pw.toml"
+hash = "ca902f5749c3fcb70233def89eab4ec0107d30e0dbe9da573fbb3660ea342d79"
 metafile = true
 
 [[files]]
@@ -625,6 +640,11 @@ hash = "9962970cabdedf4b667cb0e774e2bcb3f178c338fcd5dc5b2061937725f43cf7"
 metafile = true
 
 [[files]]
+file = "mods/magic-vibe-decorations.pw.toml"
+hash = "0928375914be4f30df11310c8016abbe4428f9bf900269d3fa2e53cf0fa05fa3"
+metafile = true
+
+[[files]]
 file = "mods/mcwifipnp.pw.toml"
 hash = "5fdd6d913489fa43946561157d47932e7d4c36c4614f5d0b9c106cad8753105f"
 metafile = true
@@ -685,6 +705,11 @@ hash = "93e5023b9b45c297a69ee769941b4c6a7f65eeb3f2baa569ad52f3d5aa8de398"
 metafile = true
 
 [[files]]
+file = "mods/niftycarts.pw.toml"
+hash = "a4eb56307d2a3270c66f0db618deb36eef836a77c92efa7b9c8c0b57839b320b"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
 metafile = true
@@ -737,6 +762,11 @@ metafile = true
 [[files]]
 file = "mods/player-locator-plus.pw.toml"
 hash = "e00085e387dce58e218600b51ef39c0c177c1cf0af78b5ea1ebdbc08cff299e7"
+metafile = true
+
+[[files]]
+file = "mods/plushables.pw.toml"
+hash = "5aae5bc113b4d06dd8526d28d85b9d3ff726545b928ceeb823438a36a46314a7"
 metafile = true
 
 [[files]]
@@ -917,6 +947,16 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "f5862523110dc5abda04f78f9810e79fb81b0f4e827777ffc93df9fb991d00fe"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "a4e2f2a518ed2d2d8b67d092622e62fc5f108db8bf827a15137769de70c9c4f7"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "1550aedc52330f566a956212f8784baf76946d2e8398cb4e41988dca48dacd9f"
 metafile = true
 
 [[files]]

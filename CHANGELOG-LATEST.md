@@ -19,6 +19,14 @@
 - [Combat+ Core](https://modrinth.com/project/NbKFMiE7)
 - [Alternative Enchantments](https://modrinth.com/project/W0USuJJc)
 - [Additional Armoury](https://modrinth.com/project/DxlUSaq8)
+- [TrashSlot](https://modrinth.com/project/vRYk0bv7)
+- [Trash Cans](https://modrinth.com/project/4QrnfueM)
+- [Plushables](https://modrinth.com/project/bpUgmHBo)
+- [NiftyCarts](https://modrinth.com/project/CXd6g9xp)
+- [Magic Vibe Decorations](https://modrinth.com/project/MPAgKQOE)
+- [DecoNature](https://modrinth.com/project/KGIl2E4k)
+- [Decocraft](https://modrinth.com/project/IZJSgKZe)
+- [Aspects](https://modrinth.com/project/bEoCkEKm)
 
 **Removido**
 

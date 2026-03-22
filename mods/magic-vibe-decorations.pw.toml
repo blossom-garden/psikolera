@@ -1,0 +1,13 @@
+name = "Magic Vibe Decorations (Crystals, Halloween)"
+filename = "magic-vibe-decorations-2.3.3-fabric-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MPAgKQOE/versions/gVtrxNPu/magic-vibe-decorations-2.3.3-fabric-1.21.11.jar"
+hash-format = "sha512"
+hash = "126affd38845a511f1b4863b3a1029a098cd9847b1d13656499789eec876c66d1fb2b955a2c274bf42f18b212c5666d7c32d8555a1042a419306561a67965693"
+
+[update]
+[update.modrinth]
+mod-id = "MPAgKQOE"
+version = "gVtrxNPu"
