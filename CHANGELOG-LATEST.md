@@ -13,7 +13,7 @@
 - Customização pras tortugas do ComputerCraft
 - [RPG Enchantments](https://modrinth.com/project/rAL0zAZC)
 - [More Spear Enchantments](https://modrinth.com/project/a0Pxxx7t)
-- [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ)
+- [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ) nunca será tao bom quanto o EMI ;-;
 - [Hexed: Enchantments Expanded](https://modrinth.com/project/UD0wgU82)
 - [dvirov's Enchantments](https://modrinth.com/project/PVKoqs9W)
 - [Combat+ Core](https://modrinth.com/project/NbKFMiE7)
@@ -27,7 +27,10 @@
 - [DecoNature](https://modrinth.com/project/KGIl2E4k)
 - [Decocraft](https://modrinth.com/project/IZJSgKZe)
 - [Aspects](https://modrinth.com/project/bEoCkEKm)
+- [Hold My Items](https://modrinth.com/project/AP8rDDLS)
+- Mais resourcepacks (opcionais!) para coisas bunitinhas
 
 **Removido**
 
 - [Roughly Enough Items (REI)](https://modrinth.com/project/nfn13YXA)
+- [First-person Model](https://modrinth.com/project/H5XMjpHi) causando mais conflito doq ajudando

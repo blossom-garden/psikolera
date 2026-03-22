@@ -1,0 +1,13 @@
+name = "[HMI] Gous's Hand Poses"
+filename = "[HMI] Gous's Hand Poses.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hlBznIDN/versions/R5EOVRln/%5BHMI%5D%20Gous%27s%20Hand%20Poses.zip"
+hash-format = "sha512"
+hash = "d7d841041c0af20f9672ba6749abf90715d0743de34677198715bf380316a7b72b04d67b924c58373bb925c58fe57144996ec105f0ca2c6cdc9a54d67cedfa2d"
+
+[update]
+[update.modrinth]
+mod-id = "hlBznIDN"
+version = "R5EOVRln"
