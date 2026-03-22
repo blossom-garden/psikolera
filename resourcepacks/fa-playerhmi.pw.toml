@@ -1,0 +1,13 @@
+name = "FA: Player × HMI Patches"
+filename = "FA+Player_HMIFix2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rhWt7ALh/versions/fUXIoIhE/FA%2BPlayer_HMIFix2.zip"
+hash-format = "sha512"
+hash = "8e99ff261445f68b8dd8dc88673a7b9efc9b8177d0eeaed2db502ba2d881495d5787510edd48aff6498b99316b87cc3d70ac1afdf0f3c77b920f4ee08d88fd9f"
+
+[update]
+[update.modrinth]
+mod-id = "rhWt7ALh"
+version = "fUXIoIhE"

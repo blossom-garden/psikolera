@@ -3,11 +3,14 @@
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable no-emphasis-as-heading -->
 
-**v2.2.1**
+**v2.3.0**
 
-_Patch Fix_
+**Adicionado**
+
+- [Hold My Items](https://modrinth.com/project/AP8rDDLS) (Ele nao era o problema '-')
+- Resourcepacks (opcionais!) para coisas bunitinhas
 
 **Removido**
 
-- [Hold My Items](https://modrinth.com/project/AP8rDDLS)
-- Resourcepacks bem fodase
+- [DecoNature](https://modrinth.com/project/KGIl2E4k) FDPs de mods mal otimizados
+- [Decocraft](https://modrinth.com/project/IZJSgKZe)

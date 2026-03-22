@@ -63,7 +63,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","pas:3d_items_with_head","pas:3d_items_player_like","file/Simple Lower Grass Sides v1.1.0.zip","file/Simple Grass Flowers v1.9.6.zip","file/Fancy Crops v1.3.zip"]
+resourcePacks:["vanilla","pas:3d_items_with_head","pas:3d_items_player_like","file/Simple Lower Grass Sides v1.1.0.zip","file/Simple Grass Flowers v1.9.6.zip","file/Fancy Crops v1.3.zip","file/Wisps Wonderful Wildflowers v1.0.0.zip","file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Fusion Connected Blocks v1.0.2 for Minecraft 1.20-1.21.8.zip","file/Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip","file/FreshAnimations_v1.10.4.zip","file/Ghasts Galore! Updated.zip","file/FA+Player-v1.0.zip","file/FA+Player-vJE.zip","holdmyitems:pack_test","file/Weskerson\u0027s 3D Items.zip","file/FA+Player_HMIFix2.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:pt_br
@@ -106,6 +106,7 @@ menuBackgroundBlurriness:5
 startedCleanly:true
 musicToast:"pause_and_toast"
 musicFrequency:"CONSTANT"
+key_key.elytralock.lock:key.keyboard.caps.lock
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w

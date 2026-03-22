@@ -10,7 +10,7 @@ hash = "28b440fe4288ddfd48c042f3640c539dda5ccdb319ad9d2f3eb2d05b49d25af5"
 
 [[files]]
 file = "config/modpack_defaults/config/entity_model_features.json"
-hash = "d7d9bddecdc9fcd5b34882bf3d876f9d8ea20f6d9696615acbe6193343dad684"
+hash = "50b32ba213c95bc592f623d9b465a9b81e7fbc9b3e4b42d45be5d6c632752f95"
 
 [[files]]
 file = "config/modpack_defaults/config/entity_texture_features.json"
@@ -280,16 +280,6 @@ hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
 metafile = true
 
 [[files]]
-file = "mods/decocraft.pw.toml"
-hash = "680cc7fb244370946bcf09f56f576c1cdcc14556f7feac477eb912a80cf4aaa5"
-metafile = true
-
-[[files]]
-file = "mods/deconature.pw.toml"
-hash = "ca902f5749c3fcb70233def89eab4ec0107d30e0dbe9da573fbb3660ea342d79"
-metafile = true
-
-[[files]]
 file = "mods/down-but-not-out.pw.toml"
 hash = "19bdfa5341b4c7129d101a7d8ee1a0eb77fe37d24f30f7786fa899c343c0c949"
 metafile = true
@@ -492,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/hexed-enchantments-expanded.pw.toml"
 hash = "18ac56ca739d35479f8b2c48cc920c38e37842f2cfb0e7507afc431865ce82c4"
+metafile = true
+
+[[files]]
+file = "mods/hold-my-items.pw.toml"
+hash = "929cf6aa709b752593ea1a434038338bf22594c8027844ad30d17e7366e18245"
 metafile = true
 
 [[files]]
@@ -1043,6 +1038,11 @@ hash = "ac7bbfdc56a8e16d5c900db5b94f41497526cd7546f4d751dd17aa604c064578"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fa-playerhmi.pw.toml"
+hash = "3ec0dd77a11aac8d4e84251eff5df1810e86c9fc218fd9862338299fa199da60"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
 metafile = true
@@ -1105,6 +1105,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/simple-lower-grass-sides.pw.toml"
 hash = "95df280d41e71aa4a6db43b9f56196a716f238660b0135c05155980e36778304"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tools-and-utils.pw.toml"
+hash = "53ff672d0d0f284c4c8169fa020984ac75bdcc4452a303ea3f3d4031fcd34bdf"
 metafile = true
 
 [[files]]
