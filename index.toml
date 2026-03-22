@@ -250,11 +250,6 @@ hash = "48eea561787fda4c303f60716c0266ab613e8d816642617515be3d04777189b2"
 metafile = true
 
 [[files]]
-file = "mods/configured.pw.toml"
-hash = "90bc25634410a59ed52bee4684101bca34170ba543f759d76a22fc1454cf128e"
-metafile = true
-
-[[files]]
 file = "mods/connectiblechains.pw.toml"
 hash = "4770a4eeea89b0dbd208491d31767f73cc0cea82496fedeeb045736c415c2947"
 metafile = true
