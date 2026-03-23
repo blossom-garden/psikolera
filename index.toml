@@ -480,11 +480,6 @@ hash = "9aa3cdec1892fe39d5c9bc5050bd22d95317219ee6ce215af3f9dc95275dfbb9"
 metafile = true
 
 [[files]]
-file = "mods/hexed-enchantments-expanded.pw.toml"
-hash = "18ac56ca739d35479f8b2c48cc920c38e37842f2cfb0e7507afc431865ce82c4"
-metafile = true
-
-[[files]]
 file = "mods/hold-my-items.pw.toml"
 hash = "929cf6aa709b752593ea1a434038338bf22594c8027844ad30d17e7366e18245"
 metafile = true
