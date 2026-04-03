@@ -1,13 +1,13 @@
 name = "Dungeons Dimensions: Nether"
-filename = "mcd_d_nether-1.1.1_1.21.11.jar"
+filename = "mcd_d_nether-1.2.0-1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sf8l9B73/versions/KoQDZRhY/mcd_d_nether-1.1.1_1.21.11.jar"
+url = "https://cdn.modrinth.com/data/sf8l9B73/versions/NZIF2Ucq/mcd_d_nether-1.2.0-1.21.11.jar"
 hash-format = "sha512"
-hash = "473e35f151614f4e1fafd5641adddc4f467895f8fdf3489538de9ed97718012a657f738194aa31c564367c6f20acac5a1a1d631ef4f1e88451d978f24f1a12d1"
+hash = "36477baa4605306b482f5830cf0517aa5bd0280035a523c749b302e8734c01a276c6ea6d3463e15c3e0ca1937c9d23499e5e15b9039d7e362b3df015c65ec83b"
 
 [update]
 [update.modrinth]
 mod-id = "sf8l9B73"
-version = "KoQDZRhY"
+version = "NZIF2Ucq"

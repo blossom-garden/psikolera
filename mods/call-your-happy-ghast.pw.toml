@@ -1,13 +1,13 @@
 name = "Call Your Happy Ghast"
-filename = "call-your-happy-ghast-v1.2.2.jar"
+filename = "call-your-happy-ghast-v1.2.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/UsjYt3wc/versions/uhewE3Q2/call-your-happy-ghast-v1.2.2.jar"
+url = "https://cdn.modrinth.com/data/UsjYt3wc/versions/WHY4wLok/call-your-happy-ghast-v1.2.3.jar"
 hash-format = "sha512"
-hash = "babc6d3cdaac992784a8201bb180dac40f0641ba4d8b23d3ff37b75367a7d37b2cc8e4db75f12847d4386e7d6a21805ea45b08bb23909fe07a572af8cff164d5"
+hash = "9dfc3c24dcbe69bdb35e1120f03430c2ca1b423666e324967edd276e4046d649f6db6a195bd222a4027d2032d8b6e6518c986ae9f12416f46d651c479a9cb8fd"
 
 [update]
 [update.modrinth]
 mod-id = "UsjYt3wc"
-version = "uhewE3Q2"
+version = "WHY4wLok"

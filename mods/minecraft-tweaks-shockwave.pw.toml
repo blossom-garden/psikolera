@@ -1,13 +1,13 @@
 name = "Shockwave Enchantment"
-filename = "minecraft-tweaks-shockwave-1.0.0.jar"
+filename = "minecraft-tweaks-shockwave-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bchqI6IQ/versions/vZKwlYDg/minecraft-tweaks-shockwave-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/bchqI6IQ/versions/ZZU0neUn/minecraft-tweaks-shockwave-1.1.1.jar"
 hash-format = "sha512"
-hash = "cabba64a2d7e68fe86b8939735baac3ecd145b98fe58e3d9ed16f14740f18a16588d759271c97d19c1a1dc12167350659a94040efe705281ccc066b0555d0123"
+hash = "ea40d9d814d4db5f3dddf9432d995fcf56bedabc74987dc3cd9b8221de3f0d0a475187bb013426326e5e148401d1b6530bbdc0db9b761991e1806eae30621586"
 
 [update]
 [update.modrinth]
 mod-id = "bchqI6IQ"
-version = "vZKwlYDg"
+version = "ZZU0neUn"

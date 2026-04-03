@@ -1,13 +1,13 @@
 name = "Aspects"
-filename = "corrupted-aspects-1.3.0.jar"
+filename = "corrupted-aspects-1.3.2-1.21.11+.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bEoCkEKm/versions/62KOJBgJ/corrupted-aspects-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/bEoCkEKm/versions/88dYM1n8/corrupted-aspects-1.3.2-1.21.11%2B.jar"
 hash-format = "sha512"
-hash = "d8e129b0565eb0aeae670f8b8824fc570dea54e8df6627a95a102dd50f7e3d7084b5dc55a598d8c247479cbcc9f55037649967a49eb081d4a387eb2373f9714c"
+hash = "ebb13125d0ba7edf00d0726a2d4b688ca156ff6e6db043d8197a1b9587b18f668036837ed1d39e2028e9ba3dc3c34e4d357bf9bf68ac5190fad83501af508954"
 
 [update]
 [update.modrinth]
 mod-id = "bEoCkEKm"
-version = "62KOJBgJ"
+version = "88dYM1n8"

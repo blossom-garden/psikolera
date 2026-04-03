@@ -1,13 +1,13 @@
 name = "Wide Mining"
-filename = "wide-mining-2.0.jar"
+filename = "wide-mining-2.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/yg9AxrZ9/versions/YJdarSSG/wide-mining-2.0.jar"
+url = "https://cdn.modrinth.com/data/yg9AxrZ9/versions/QhwkSKe9/wide-mining-2.1.jar"
 hash-format = "sha512"
-hash = "a1c7a45de4e8314c325774c0bbd4ee82792f01960aa8fe38c408db1b1fcaaccb82932f05cc317437d4d817be84cafcad578359baceaace9468984c2407071202"
+hash = "bd15113d6449f3281a6580ffbe3a5116971906ede08339908e7bc4c44caee1898932011acfe645fb4ca9e5074ad28debdaf23b5dc7928ae00f44bde9374c6ca9"
 
 [update]
 [update.modrinth]
 mod-id = "yg9AxrZ9"
-version = "YJdarSSG"
+version = "QhwkSKe9"
