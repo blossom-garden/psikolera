@@ -267,3 +267,13 @@ modelPart_right_pants_leg:true
 modelPart_hat:true
 strawberrylib.equippable_glint_color:PURPLE
 strawberrylib.glint_color:PURPLE
+key_key.push_to_talk:key.keyboard.unknown
+key_key.whisper:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.down
+key_key.disable_voice_chat:key.keyboard.up
+key_key.hide_icons:key.keyboard.h
+key_key.voice_chat:key.keyboard.left.bracket
+key_key.voice_chat_settings:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.voice_chat_adjust_volumes:key.keyboard.unknown

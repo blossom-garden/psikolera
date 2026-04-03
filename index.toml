@@ -17,6 +17,10 @@ file = "config/modpack_defaults/config/entity_texture_features.json"
 hash = "d8d72a9ac49bbe45921f1ace5a22c30b65802c5e70829343cf7acfd25f79b8dc"
 
 [[files]]
+file = "config/modpack_defaults/config/voicechat/voicechat-server.properties"
+hash = "2a35fd3e94a3f09f1e4999d195b157301386c278ed71d1af16ceac3e8b8674a2"
+
+[[files]]
 file = "config/modpack_defaults/options.txt"
 hash = "76f84b6431cf23fd717c4379594d38baf2220f4375db743079e444af3f8696a6"
 
@@ -38,6 +42,11 @@ hash = "9d0721cc2363384fab2afa4e27a399b2bbf0c45dda732d5d2110411d690a30d9"
 metafile = true
 
 [[files]]
+file = "datapacks/hat-club.pw.toml"
+hash = "1e55cf5437ef2a60a9a357f812cdfcf1d74bdff2471eba6b649f2a6669072625"
+metafile = true
+
+[[files]]
 file = "datapacks/nametag-backport.zip"
 hash = "a2a4ae48e4a242423e5dd7648729d6f76ee8f2a7c48ce87a174276a4bfa911d6"
 
@@ -49,10 +58,6 @@ metafile = true
 [[files]]
 file = "icon.png"
 hash = "0dcb8520ba74f0c4bc1ab9c7fdbc50720f8b5ff854e3a5ec80853797b2ece6b2"
-
-[[files]]
-file = "mods/HatClub-1.0.0-1.21.11.jar"
-hash = "7878fccaf979020d705830923d4d16d88907bd4d6d65b4107c20f64d5e5d6640"
 
 [[files]]
 file = "mods/TortugaFoda.jar"
@@ -806,6 +811,16 @@ metafile = true
 [[files]]
 file = "mods/pneumono_gravestones.pw.toml"
 hash = "0a2603701e630b6ed05854fb97b5eb2d866741cf57bf0c6ba27acffad83aa2ac"
+metafile = true
+
+[[files]]
+file = "mods/polydex.pw.toml"
+hash = "1a158aac245634f9c75b87a2e7e705c44fa53eeaba28db495246461cbea25af7"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "62757d6d2b91ff8bc8e43d29a9b511724b07c45f72d60445f1c2341a5d2586c4"
 metafile = true
 
 [[files]]
