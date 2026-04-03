@@ -1,0 +1,13 @@
+name = "Wiretap"
+filename = "wiretap-1.3.0+1.21.11.fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/q3tICGpu/versions/X6BghKDz/wiretap-1.3.0%2B1.21.11.fabric.jar"
+hash-format = "sha512"
+hash = "7e858b8d46ea3f0189e9412efbeea718626ca47deb7d623502d9bf0a1eaef52dc3aa4129c20f70e8704de032ff1a435b04debc527dba9f984b6978db5366ecb7"
+
+[update]
+[update.modrinth]
+mod-id = "q3tICGpu"
+version = "X6BghKDz"

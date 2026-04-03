@@ -1,0 +1,13 @@
+name = "Open Soundboard"
+filename = "opensoundboard-0.2.2+mc1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oaptjGEs/versions/l4Iau8eZ/opensoundboard-0.2.2%2Bmc1.21.11.jar"
+hash-format = "sha512"
+hash = "4b3c512b8957db02bd19a33b5bed566e7eab972cab34823cb788c5644894c5912b83fd2203312c26b48828955a7c83ac0dce8ab286db1c13ca834f0c7168811b"
+
+[update]
+[update.modrinth]
+mod-id = "oaptjGEs"
+version = "l4Iau8eZ"

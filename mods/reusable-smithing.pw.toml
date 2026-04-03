@@ -1,0 +1,13 @@
+name = "Reusable Smithing"
+filename = "Reusable-Smithing(1.20)-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jtnyQUru/versions/2CsAJfbh/Reusable-Smithing%281.20%29-1.0.0.jar"
+hash-format = "sha512"
+hash = "2ee01da2c7c9d7e8a4c1e54840fd5e2755de541ed990bfb5c592078a5aa075504d7bbe3261c9eacece8f8c931859dddb3eb66c31ab1bec322cdf074fe1ab87ef"
+
+[update]
+[update.modrinth]
+mod-id = "jtnyQUru"
+version = "2CsAJfbh"

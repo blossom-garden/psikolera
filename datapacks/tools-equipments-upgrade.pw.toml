@@ -1,0 +1,13 @@
+name = "Tools & Equipments Upgrade"
+filename = "Tools-Equipments-Upgrade-6.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TJT2Z0vt/versions/av4F40OL/Tools-Equipments-Upgrade-6.0.zip"
+hash-format = "sha512"
+hash = "bcb6dd7417891ac92044914857a4083938070808d25c56d89dfc4864cd015d786d28e63098e459c661002cc5c7d057803bfe3c0818da3e4b4591485cbbbe9765"
+
+[update]
+[update.modrinth]
+mod-id = "TJT2Z0vt"
+version = "av4F40OL"

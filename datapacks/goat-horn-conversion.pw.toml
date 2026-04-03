@@ -1,0 +1,13 @@
+name = "Goat Horn Conversion"
+filename = "GoatHornSoundConversion-1.21.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JE7T8ppm/versions/SzfrAE39/GoatHornSoundConversion-1.21.1.zip"
+hash-format = "sha512"
+hash = "153c5ba3641ce9e76735f72d7761f6825ab3a17a247e20576810ccc3d5a522dba7999fe94a70507c684666dcbb655ba616e7b7d7ffc6a6f829db5d767ec6c3a6"
+
+[update]
+[update.modrinth]
+mod-id = "JE7T8ppm"
+version = "SzfrAE39"
