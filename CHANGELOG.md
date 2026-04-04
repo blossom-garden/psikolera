@@ -4,6 +4,19 @@
 
 # Psikolera
 
+**v2.4.1**
+
+**Adicionado**
+
+- [MODNAME](https://modrinth.com/project/MODID)
+- Updates de mods que tinham updates disponiveis
+- [Potion Rings - Reforged](https://modrinth.com/project/VZywdkA8)
+- [Everlasting Abilities](https://modrinth.com/project/xDwJf4pi)
+
+**Downgrade**
+
+- [Reeling Scythes](https://modrinth.com/project/YATddOpI) (tava causando crash)
+
 **v2.4.0**
 
 **Adicionado**

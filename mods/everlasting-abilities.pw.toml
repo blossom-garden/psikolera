@@ -1,0 +1,13 @@
+name = "Everlasting Abilities"
+filename = "everlastingabilities-1.21.11-fabric-2.5.0-352.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xDwJf4pi/versions/fDjOFpKT/everlastingabilities-1.21.11-fabric-2.5.0-352.jar"
+hash-format = "sha512"
+hash = "ec51faccca79daffa7102a9f95e18140ed15ed6366490d6414071e1558547ec6f5abf9f45671edfa2b27222d5ee80b2f55f52b3c4162f2682af0ea5e797726f3"
+
+[update]
+[update.modrinth]
+mod-id = "xDwJf4pi"
+version = "fDjOFpKT"

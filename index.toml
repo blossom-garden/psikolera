@@ -22,7 +22,7 @@ hash = "2a35fd3e94a3f09f1e4999d195b157301386c278ed71d1af16ceac3e8b8674a2"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "76f84b6431cf23fd717c4379594d38baf2220f4375db743079e444af3f8696a6"
+hash = "b8944fc61e9a1d53d63fb0bb581c47e9a6d689f81bf6b472f99ebb904eaca8a6"
 
 [[files]]
 file = "datapacks/BetterCraftables_v6.3.1_mc1.21.9-26.1snap1.zip"
@@ -309,6 +309,11 @@ hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "0f40224f31068da13293176c7afaa22306216959797d3db3848c574faccd4f5c"
+metafile = true
+
+[[files]]
 file = "mods/down-but-not-out.pw.toml"
 hash = "19bdfa5341b4c7129d101a7d8ee1a0eb77fe37d24f30f7786fa899c343c0c949"
 metafile = true
@@ -436,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "5c54f35f81fc74beac918d2656ce0e84dc91f957c401b382d598a17d5fbf82dc"
+metafile = true
+
+[[files]]
+file = "mods/everlasting-abilities.pw.toml"
+hash = "dfaf4372eef7fea773b3eb71a63d2c02ffa0deaa59edee36fd9e17cf69968553"
 metafile = true
 
 [[files]]
@@ -824,6 +834,11 @@ hash = "62757d6d2b91ff8bc8e43d29a9b511724b07c45f72d60445f1c2341a5d2586c4"
 metafile = true
 
 [[files]]
+file = "mods/potion-ring-reforged.pw.toml"
+hash = "1acaf9d0eed4c2f2aeffe64536b1ce2882c34c21f61ba4cf0afc56bf496e2174"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "13369d7a10a47895f33629f000945d6bdf43f7b19a9ff1ca2ecfbc209c1ac431"
 metafile = true
@@ -850,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeling-scythes.pw.toml"
-hash = "7a02b66db84b6ac64687fcfaaf89d2af5fcba0e47d8df4eeb6b27b56585c123f"
+hash = "d094d3594f83ce9caba38433f9d0bbaccade301f939f2120209435abab1f868f"
 metafile = true
 
 [[files]]
