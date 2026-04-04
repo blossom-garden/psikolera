@@ -4,6 +4,17 @@
 
 # Psikolera
 
+**v2.5.0**
+
+**Adicionado**
+
+- [Nullscape](https://modrinth.com/project/LPjGiSO4)
+- [True Ending - Ender Dragon Overhaul](https://modrinth.com/project/MCnBYP0b)
+
+**Removido**
+
+- [Stellarity ~ Enlightened](https://modrinth.com/project/45WspQ04) nem sei mano
+
 **v2.4.1**
 
 **Adicionado**
