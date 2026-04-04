@@ -3,12 +3,13 @@
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable no-emphasis-as-heading -->
 
-**v2.4.1**
+**v2.5.0**
 
 **Adicionado**
 
-- [Everlasting Abilities](https://modrinth.com/project/xDwJf4pi)
+- [Nullscape](https://modrinth.com/project/LPjGiSO4)
+- [True Ending - Ender Dragon Overhaul](https://modrinth.com/project/MCnBYP0b)
 
-**Downgrade**
+**Removido**
 
-- [Reeling Scythes](https://modrinth.com/project/YATddOpI) (tava causando crash)
+- [Stellarity ~ Enlightened](https://modrinth.com/project/45WspQ04) nem sei mano

@@ -1,12 +1,12 @@
 name = "Psikolera"
 author = "kodiitulip"
-version = "2.4.1"
+version = "2.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ee032c644b7d0f994a3337aed694c7c0a94d2dda3cb83228906d7ae732c43b2f"
+hash = "ef702b529092f85a0c5fae3af82c4e34af0ea7e0de33caec4a15761f0defaa93"
 
 [versions]
 fabric = "0.18.4"

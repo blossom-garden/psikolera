@@ -764,6 +764,11 @@ hash = "0d28fb2cac3164a398603d00aaffc85f5bc557d136c66e6d25bfa307b824a219"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "736067d015533807f800f5635900431a5715dec753c7665fa57766c181f145b6"
+metafile = true
+
+[[files]]
 file = "mods/omnicut-better-wood-stone-cutter.pw.toml"
 hash = "d28f5b02438d59d3b0374dc136b197608d7f100dac59f3c253c6151a1fc0f5f8"
 metafile = true
@@ -979,11 +984,6 @@ hash = "6336d9920227dc21d6df421414bfef75a8e029ff5d8e6d36dbd3609ce1beee79"
 metafile = true
 
 [[files]]
-file = "mods/stellarity-enlightened.pw.toml"
-hash = "6ceaae9c18fb422e8b730c99a473db0bcba3020d418ba15aae5dea93b9f93a06"
-metafile = true
-
-[[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "ef331a2fd5c656297f61d13ddd2e1800c0ffe8cb38b4e65fdc1ecc214ec87e85"
 metafile = true
@@ -1051,6 +1051,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets-updated.pw.toml"
 hash = "30247c3ae0a4cac3bb6cea5bdc2e6af532a19b569111b59804435cc7c1d66110"
+metafile = true
+
+[[files]]
+file = "mods/true-ending.pw.toml"
+hash = "fcbfa39f9ced74807efe4ce8d200b6dcfc5f4258fcb69d1c67447b55c47d084a"
 metafile = true
 
 [[files]]
