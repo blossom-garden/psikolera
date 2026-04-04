@@ -834,11 +834,6 @@ hash = "62757d6d2b91ff8bc8e43d29a9b511724b07c45f72d60445f1c2341a5d2586c4"
 metafile = true
 
 [[files]]
-file = "mods/potion-ring-reforged.pw.toml"
-hash = "1acaf9d0eed4c2f2aeffe64536b1ce2882c34c21f61ba4cf0afc56bf496e2174"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "13369d7a10a47895f33629f000945d6bdf43f7b19a9ff1ca2ecfbc209c1ac431"
 metafile = true
