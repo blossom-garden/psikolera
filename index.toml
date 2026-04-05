@@ -179,6 +179,11 @@ hash = "7704a804af984cac980a76eff5f22e3a1bac967826d5dce177e01d9ea4ca16ca"
 metafile = true
 
 [[files]]
+file = "mods/brewery.pw.toml"
+hash = "13da8f8ec750ad44d5a90f41415859ce228fad82f685738a0a559c18213301e9"
+metafile = true
+
+[[files]]
 file = "mods/butterbee.pw.toml"
 hash = "d8f808f424298f05e5add045c34a947039873de588effa92cf8d197661e870d6"
 metafile = true
@@ -554,6 +559,11 @@ hash = "ba7a4a025e9e3b3d88b5bd12406ac9b20fa56163bc48738cc26f0fd1fd21b219"
 metafile = true
 
 [[files]]
+file = "mods/hungrier.pw.toml"
+hash = "f44cc1b88af78a0c7d401b6dce4216e6712f05e4b256c3b4fe0603700f831590"
+metafile = true
+
+[[files]]
 file = "mods/improved-village-placement.pw.toml"
 hash = "b4917d33f42660f3b77863324c8b331296212f8620f208cbf91f237fc11c25e0"
 metafile = true
@@ -574,6 +584,11 @@ hash = "3d89268498eef0599b21095bc78220d2c5fc4186c4f42129596ba5508492ad59"
 metafile = true
 
 [[files]]
+file = "mods/ketkets-mannequins.pw.toml"
+hash = "18a0e47c6a867f1cd064548c378027dd23d0c909ac021e38d70782b3a81fa5a7"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "71255e25b05b6529d6a2873e4db079b7b6541f58a78d872bc19478afcb0ffd1c"
 metafile = true
@@ -581,6 +596,11 @@ metafile = true
 [[files]]
 file = "mods/lazyai.pw.toml"
 hash = "56b4b7d63988aae0c7441067d23477310384d66547f30ff77952c2dfb1036791"
+metafile = true
+
+[[files]]
+file = "mods/let-your-friend-eating!.pw.toml"
+hash = "e2d9801abcdcc0fff46c3109487e05638298d2c30b7129ab10ffa7f65e392295"
 metafile = true
 
 [[files]]

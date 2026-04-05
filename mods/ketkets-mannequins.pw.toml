@@ -1,0 +1,13 @@
+name = "Mannequins"
+filename = "ketkets-mannequins-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IjlxeukO/versions/a9XKofkP/ketkets-mannequins-1.0.jar"
+hash-format = "sha512"
+hash = "0b6fbce78de8ce9e722b2963aad4163dbd3d93530499f3c89fbba5197bd726e954a9335e17ade733796e9aceb74c8e5bd18ff96e5bac1fd14fe94da0453af151"
+
+[update]
+[update.modrinth]
+mod-id = "IjlxeukO"
+version = "a9XKofkP"
